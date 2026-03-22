@@ -21,14 +21,14 @@
 
 ## MODULO 4
 
-- Conceptos Básicos
+- Conceptos Básicos de Redes Domesticas
 
   Las redes domésticas funcionan como una pequeña LAN que conecta la red pública del proveedor de servicios con los dispositivos del hogar. El router es el núcleo
   de esta estructura, actuando como un equipo integrado que permite la comunicación tanto por cable como de forma inalámbrica. Gracias este centro de conexión, una
   gran variedad de dispositivos como consolas, televisores inteligentes, cámaras de seguridad y sistemas de control de temperatura pueden intercambiar información
   entre sí y acceder a internet de manera sencilla y económica.
 
-- Tecnologías de Red
+- Tecnologías de Red en el Hogar
 
   La conectividad en el hogar se divide principalmente en tecnologías inalámbricas y cableadas. Las inalámbricas utilizan ondas electromagnéticas, específicamente
   en las bandas de 2.4 GHz y 5 GHz, bajo estándares que ofrecen mayor alcance y potencia que el Bluetooth.
